@@ -20,9 +20,7 @@ A checkmark indicates completion.
 
 ## Certificates  | Verification Links: [***1***](https://www.coursera.org/account/accomplishments/verify/CHHGNJ3UW52E), [***2***](https://www.coursera.org/account/accomplishments/verify/AYGSV86ZNB75), [***3***](https://www.coursera.org/account/accomplishments/verify/98S5JKCFKRGY)
 
-![neural networks and deep learning](https://github.com/nancyloma/Deep-Learning-Coursera-Certificates/files/5648431/Coursera.Deep1.pdf)
-![improving deep neural networks-1](#)
-![structuring machine learning projects](#)
+![Neural Networks and Deep Learning]()
 
 
 ## Curriculum
