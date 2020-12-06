@@ -21,6 +21,8 @@ A checkmark indicates completion.
 ## Certificates  | Verification Links: [***1***](https://www.coursera.org/account/accomplishments/verify/CHHGNJ3UW52E), [***2***](https://www.coursera.org/account/accomplishments/verify/AYGSV86ZNB75), [***3***](https://www.coursera.org/account/accomplishments/verify/98S5JKCFKRGY)
 
 <a href="https://www.coursera.org/account/accomplishments/verify/CHHGNJ3UW52E"><img src="https://i.ibb.co/CVGRZ54/Coursera-Deep1.jpg" alt="Coursera-Deep1" border="0"></a>
+<a href="https://www.coursera.org/account/accomplishments/verify/AYGSV86ZNB75"><img src="https://i.ibb.co/z4gCnbs/Coursera-Deep2.jpg" alt="Coursera-Deep2" border="0"></a>
+<a href="https://www.coursera.org/account/accomplishments/verify/98S5JKCFKRGY"><img src="https://i.ibb.co/7483yyM/Coursera-Deep3.jpg" alt="Coursera-Deep3" border="0"></a>
 
 ## Curriculum
 
