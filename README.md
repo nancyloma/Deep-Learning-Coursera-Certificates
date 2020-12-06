@@ -20,9 +20,6 @@ A checkmark indicates completion.
 
 ## Certificates  | Verification Links: [***1***](https://www.coursera.org/account/accomplishments/verify/CHHGNJ3UW52E), [***2***](https://www.coursera.org/account/accomplishments/verify/AYGSV86ZNB75), [***3***](https://www.coursera.org/account/accomplishments/verify/98S5JKCFKRGY)
 
-![#1](Coursera Deep1.pdf)
-
-
 ## Curriculum
 
 ### Course 1. Neural Networks and Deep Learning
