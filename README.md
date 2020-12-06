@@ -20,7 +20,7 @@ A checkmark indicates completion.
 
 ## Certificates  | Verification Links: [***1***](https://www.coursera.org/account/accomplishments/verify/CHHGNJ3UW52E), [***2***](https://www.coursera.org/account/accomplishments/verify/AYGSV86ZNB75), [***3***](https://www.coursera.org/account/accomplishments/verify/98S5JKCFKRGY)
 
-[Coursera Deep1.pdf](https://github.com/nancyloma/Deep-Learning-Coursera-Certificates/files/5648502/Coursera.Deep1.pdf)
+<a href="https://www.coursera.org/account/accomplishments/verify/CHHGNJ3UW52E"><img src="https://i.ibb.co/CVGRZ54/Coursera-Deep1.jpg" alt="Coursera-Deep1" border="0"></a>
 
 ## Curriculum
 
